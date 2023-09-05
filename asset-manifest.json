@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4efb37a3.css",
-    "main.js": "/static/js/main.64f905ab.js",
-    "static/js/781.402b2bda.chunk.js": "/static/js/781.402b2bda.chunk.js",
-    "static/js/861.78d283fd.chunk.js": "/static/js/861.78d283fd.chunk.js",
-    "static/js/135.cd032143.chunk.js": "/static/js/135.cd032143.chunk.js",
-    "static/js/522.76ca802f.chunk.js": "/static/js/522.76ca802f.chunk.js",
-    "static/js/199.33ac1a71.chunk.js": "/static/js/199.33ac1a71.chunk.js",
-    "static/js/212.4e770c0f.chunk.js": "/static/js/212.4e770c0f.chunk.js",
-    "static/js/704.4cbf632a.chunk.js": "/static/js/704.4cbf632a.chunk.js",
-    "index.html": "/index.html"
+    "main.css": "/connectkit-demo/static/css/main.4efb37a3.css",
+    "main.js": "/connectkit-demo/static/js/main.b0a202a6.js",
+    "static/js/781.402b2bda.chunk.js": "/connectkit-demo/static/js/781.402b2bda.chunk.js",
+    "static/js/861.78d283fd.chunk.js": "/connectkit-demo/static/js/861.78d283fd.chunk.js",
+    "static/js/135.aa05372c.chunk.js": "/connectkit-demo/static/js/135.aa05372c.chunk.js",
+    "static/js/522.76ca802f.chunk.js": "/connectkit-demo/static/js/522.76ca802f.chunk.js",
+    "static/js/199.33ac1a71.chunk.js": "/connectkit-demo/static/js/199.33ac1a71.chunk.js",
+    "static/js/212.4e770c0f.chunk.js": "/connectkit-demo/static/js/212.4e770c0f.chunk.js",
+    "static/js/704.4cbf632a.chunk.js": "/connectkit-demo/static/js/704.4cbf632a.chunk.js",
+    "index.html": "/connectkit-demo/index.html"
   },
   "entrypoints": [
     "static/css/main.4efb37a3.css",
-    "static/js/main.64f905ab.js"
+    "static/js/main.b0a202a6.js"
   ]
 }
