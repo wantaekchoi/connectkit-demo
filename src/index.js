@@ -19,12 +19,11 @@ const config = createConfig(
 
 ReactDOM.render(
   <React.StrictMode>
-  <WagmiConfig config={config}>
-    <ConnectKitProvider>
-      <ConnectKitButton />
-    </ConnectKitProvider>
-  </WagmiConfig>
-  <div>ddd</div>
+    <WagmiConfig config={config}>
+      <ConnectKitProvider>
+        <ConnectKitButton />
+      </ConnectKitProvider>
+    </WagmiConfig>
   </React.StrictMode>,
   document.getElementById('root')
 );
