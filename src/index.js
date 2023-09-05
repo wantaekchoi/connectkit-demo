@@ -24,7 +24,6 @@ ReactDOM.render(
         <ConnectKitButton />
       </ConnectKitProvider>
     </WagmiConfig>
-    <div>test</div>
   </React.StrictMode>,
   document.getElementById('root')
 );
