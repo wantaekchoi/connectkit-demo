@@ -11,9 +11,9 @@ import { ConnectKitProvider, ConnectKitButton, getDefaultConfig } from "connectk
 const config = createConfig(
   getDefaultConfig({
     appName: 'family connectkit demo',
-    alchemyId: process.env.REACT_APP_ALCHEMY_ID,
+    alchemyId: `${process.env.REACT_APP_ALCHEMY_ID}`,
     chains: [mainnet, polygon, optimism, arbitrum],
-    walletConnectProjectId: process.env.REACT_APP_WALLETCONNECT_PROJECT_ID,
+    walletConnectProjectId: `${process.env.REACT_APP_WALLETCONNECT_PROJECT_ID}`,
   })
 );
 
